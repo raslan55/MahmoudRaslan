@@ -96,7 +96,7 @@ export default {
 
 .contact-info span {
   margin-left: 25px;
-  font-size: 20px;
+  font-size: 1rem;
   cursor: pointer;
   color: var(--Main-color);
 }

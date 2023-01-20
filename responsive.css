@@ -17,8 +17,6 @@
         margin-top: 15px;
     }
 
-
-
     .item-overlay .item-text {
 
         padding: 20px;
@@ -31,7 +29,6 @@
         bottom: 0px;
         left: 20% !important;
         text-align: center;
-        line-height: 6;
         top: 20% !important;
         background: rgb(52 86 255 / 56%);
         -webkit-transition: .5s;

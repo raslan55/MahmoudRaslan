@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2023. All Rights Reserved to Mahmoud Raslan</p>
+          <p>Copyright © 2023.All Rights Reserved to Mahmoud Raslan</p>
         </div>
       </div>
     </div>
@@ -24,7 +24,7 @@ footer {
 
 footer p {
   color: #fff;
-  font-size: 17px;
+  font-size: 1rem;
   font-weight: bold;
   line-height: 2;
   margin-top: 10px;

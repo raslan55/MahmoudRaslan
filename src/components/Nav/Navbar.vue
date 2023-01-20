@@ -106,10 +106,6 @@ export default {
   text-transform: capitalize;
 }
 
-.icon svg {
-  color: var(--text-color);
-  font-size: 1.5rem;
-}
 .navbar-toggler {
   border: 0px;
 }
