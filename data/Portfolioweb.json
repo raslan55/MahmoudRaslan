@@ -1,0 +1,58 @@
+[{
+    "id":1,
+    "ItemLink": "https://eager-banach-d59dca.netlify.app/",
+    "ItemCode": "  https://github.com/raslan55/Cbc-website",
+
+    "ItemImg":"assets/images/portfolio/2.png",
+    "ItemText": "web design",
+    "ItemTitle": "CBC website"
+  },
+  {
+    "id":2,
+
+    "ItemLink": "https://keen-mclean-bb2fe0.netlify.app/",
+    "ItemCode": "https://github.com/raslan55/Kayanwebsite",
+
+    "ItemImg":"assets/images/portfolio/3.png",
+    "ItemText": "web design",
+    "ItemTitle": "KAYAN website"
+  },
+  {
+    "id":3,
+
+    "ItemLink": "https://hopes.netlify.app/",
+    "ItemImg":"assets/images/portfolio/4.png",
+    "ItemText": "web design",
+    "ItemTitle": "Hopes  website"
+  }
+  , {
+    "id":4,
+
+    "ItemLink": "https://elegant-neumann-18d178.netlify.app/",
+    "ItemCode": "https://github.com/raslan55/Tamhid24",
+
+    "ItemImg":"assets/images/portfolio/5.png",
+    "ItemText": "web design",
+    "ItemTitle": "Tamhid  website"
+  },
+  {
+    "id":5,
+
+    "ItemLink": "https://offerway.netlify.app/",
+    "ItemCode": "https://github.com/raslan55/offer-way-",
+
+    "ItemImg":"assets/images/portfolio/offer way landing page.png",
+    "ItemText": "web design",
+    "ItemTitle": "Offer Way landing page "
+  },
+  
+  {
+    "id":6,
+    "ItemLink": "https://drseham.netlify.app/",
+    "ItemCode": " https://github.com/raslan55/Dr-seham",
+
+    "ItemImg":"assets/images/portfolio/screencapture-file-G-templets-Drseham-Dr-seham-index-html-2023-01-19-01_36_27.png",
+    "ItemText": "web design",
+    "ItemTitle": "University Professor"
+  }
+]

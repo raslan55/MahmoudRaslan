@@ -1,0 +1,80 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .nav-item .nav-link {
+        padding: 10px;
+    }
+
+    .icon svg {
+        color: #fbd214;
+        font-size: 1.5rem;
+    }
+
+    .Services .single-service {
+        margin-top: 15px;
+    }
+
+
+
+    .item-overlay .item-text {
+
+        padding: 20px;
+    }
+
+    .item-overlay {
+        width: 60% !important;
+        max-height: 241px !important;
+        position: absolute;
+        bottom: 0px;
+        left: 20% !important;
+        text-align: center;
+        line-height: 6;
+        top: 20% !important;
+        background: rgb(52 86 255 / 56%);
+        -webkit-transition: .5s;
+        transition: .5s;
+        opacity: 0;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    }
+
+    .Portfolio img {
+        height: 350px !important;
+        width: 445px !important;
+        padding: 15px;
+        box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    }
+
+
+    .Portfolio h1::before {
+
+        left: 38% !important;
+
+    }
+
+
+    .contact-info {
+        padding: 10px;
+    }
+
+    .contact-info span {
+        font-size: 15px;
+        font-weight: bold;
+    }
+
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}

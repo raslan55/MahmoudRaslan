@@ -1,0 +1,28 @@
+[
+   
+    {
+      "id": 1,
+      "CardImg":"assets/images/data.png",
+
+      "Text": "Web Development",
+      "title": "I like to code things from scratch, and enjoy bringing ideas to life in the browser."
+    },
+    {
+      "CardImg": "assets/images/orientation.png",
+
+      "id": 2,
+      "Text": "UI&UX",
+      "title": "value simple content structure, clean design patterns, and thoughtful interactions."
+    },
+    {
+      "CardImg":"assets/images/responsive.png",
+      "id": 3,
+      "Text": "Responsive Design",
+      "title": "I will do responsive website design and build complete website by CSS FLEXBOX, GRID, BOOTSTRAP etc."
+    }
+
+
+]
+
+
+
